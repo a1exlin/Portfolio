@@ -6,6 +6,7 @@ import Selfie from '../../assets/Self photo 2.jpg'
 const Header = () => {
     return (
         <header>
+            
             <div className='container header__container'>
                 <h5> Hello, I am </h5>
                 <h1> Alexander Lin</h1>
@@ -24,5 +25,6 @@ const Header = () => {
         </header>
     )
 }
+
 
 export default Header
