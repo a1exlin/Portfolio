@@ -110,8 +110,10 @@ a:hover {
 
 img {
     display: block;
-    width: 100%;
+    width: 50%;
     object-fit: cover;
+    justify-content: center;
+    margin-left: 26%;
 }
 
 
